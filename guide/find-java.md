@@ -14,4 +14,4 @@ Java的安装包你可以通过以下途径找到，您可以自行取舍：
 |---|---|---|---|
 |Oracle JDK|<https://www.oracle.com/cn/java/technologies/downloads/>|适中|需要|
 |Adoptium JDK|<https://adoptium.net/zh-CN/>|慢|不需要|
-|Microsoft JDK|<https://learn.microsoft.com/zh-cn/java/openjdk/download>|适中|不需要|
+|Microsoft JDK|<https://learn.microsoft.com/zh-cn/java/openjdk/download>|较快|不需要|
