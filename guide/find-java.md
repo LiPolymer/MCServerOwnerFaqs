@@ -16,4 +16,4 @@
 |Oracle JDK|<https://www.oracle.com/cn/java/technologies/downloads/>|适中|需要|
 |Adoptium OpenJDK|<https://adoptium.net/zh-CN/>|慢|不需要|
 
-**如果您是追求极致性能的用户,您可能需要寻找第三方的JRE(如Zulu)来更好地利用您设备的资源,在此不作赘述**
+*如果您是追求极致性能的用户,您可能需要寻找第三方的JRE(如Zulu)来更好地利用您设备的资源,在此不作赘述*
