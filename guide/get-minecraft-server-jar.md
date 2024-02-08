@@ -1,11 +1,15 @@
 # 要去哪里找服务端
 
-一般来说，Minecraft服务端分为以下三种，分别有不同的支持以及适用范围，请自行取舍：
+一般来说，Minecraft服务端分为以下六种，分别有不同的支持以及适用范围，请自行取舍：
 
-1. 原版端
-2. Spigot/Bukkit/Paper 等的插件端
-3. Sponge 类的MOD/插件混合端
+1. 官方服务端,只提供最基础的数据包加载能力
+2. Spigot/Bukkit/Paper 等Bukkit系插件端
+3. 支持Bukkit系插件的Forge MOD/插件混合端
 4. Forge/Fabric 类的MOD端
+5. 支持Sponge插件和Forge MOD的Sponge端
+6. 仅提供Sponge插件支持的Sponge Vanilla端
+
+**近年一些FabricMOD还提供了对Bukkit系插件的加载能力,也可以算作一种混合端**
 
 以下是各个客户端的下载链接（直达网页，并不会自动下载）：
 
