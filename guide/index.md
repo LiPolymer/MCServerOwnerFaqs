@@ -14,7 +14,7 @@
 
 ## 从零开始
 
-[怎么开服？](../fully-newbie/)
+[怎么开服？](./fully-newbie.md)
 
 ## Java相关问题
 

@@ -16,7 +16,11 @@ export default defineConfig({
       {
         text: '快捷跳转',
         items: [
-          { text: '从零开始', link: '/guide/#从零开始' },
+          {
+            text: '从零开始', items: [
+              { text: '怎么开服', link: '/guide/fully-newbie.md' }
+            ]
+          },
           {
             text: 'Java相关问题', items: [
               { text: '要去哪里找Java安装包', link: '/guide/find-java.md' }
