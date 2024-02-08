@@ -4,16 +4,16 @@
 
 1. 官方服务端,只提供最基础的数据包加载能力
 2. Spigot/Bukkit/Paper 等Bukkit系插件端
-3. 支持Bukkit系插件的Forge MOD/插件混合端
+3. 支持Bukkit系插件的Forge MOD/插件混合端 (如Mohist Arclight CatServer等)
 4. Forge/Fabric 类的MOD端
 5. 支持Sponge插件和Forge MOD的Sponge端
 6. 仅提供Sponge插件支持的Sponge Vanilla端
 
-*近年一些FabricMOD还提供了对Bukkit系插件的加载能力,也可以算作一种混合端*
+*近年一些FabricMOD(如Banner,Cardboard等)还提供了对Bukkit系插件的加载能力,也可以算作一种混合端*
 
-以下是各个客户端的下载链接（直达网页，并不会自动下载）：
+以下是部分服务端的下载链接（直达网页，并不会自动下载）：
 
-::: warning 为什么没有下载链接？
+::: warning 为什么Spigot和Bukkit没有下载链接？
 由于版权问题，Spigot/Bukkit已经停止提供直接下载的链接，您如果真的需要，请转而使用官方提供的构建工具（见表格）
 :::
 
