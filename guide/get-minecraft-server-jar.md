@@ -9,7 +9,7 @@
 5. 支持Sponge插件和Forge MOD的Sponge端
 6. 仅提供Sponge插件支持的Sponge Vanilla端
 
-**近年一些FabricMOD还提供了对Bukkit系插件的加载能力,也可以算作一种混合端**
+*近年一些FabricMOD还提供了对Bukkit系插件的加载能力,也可以算作一种混合端*
 
 以下是各个客户端的下载链接（直达网页，并不会自动下载）：
 
