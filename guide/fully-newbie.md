@@ -46,7 +46,7 @@
     1. [寻找Java安装包](./get-java.md)
     2. [安装Java](./install-java.md)
 3. [下载Minecraft服务端](./get-minecraft-server-jar.md)
-4. 运行Minecraft服务端
+4. [运行Minecraft服务端](./run-minecraft-server-jar.md)
 5. 进行服务端的简单配置
 6. 配置网络访问（如开放防火墙，配置内网穿透等）
 7. 进行收尾工作以及后期维护

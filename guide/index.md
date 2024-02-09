@@ -24,7 +24,7 @@
 
 [要去哪里找服务端？](./get-minecraft-server-jar.md)
 
-怎么运行
+[怎么运行服务端？](./run-minecraft-server-jar.md)
 
 ## 网络相关问题
 

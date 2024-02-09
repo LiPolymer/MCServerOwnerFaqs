@@ -28,7 +28,8 @@ export default defineConfig({
           },
           {
             text: 'Minecraft服务器（软件）相关问题', items: [
-              { text: '要去哪里找服务端', link: '/guide/get-minecraft-server-jar.md' }
+              { text: '要去哪里找服务端', link: '/guide/get-minecraft-server-jar.md' },
+              { text: '怎么运行服务端', link: '/guide/run-minecraft-server-jar.md' }
             ]
           },
           { text: '网络相关问题', link: '/guide/#网络相关问题' },

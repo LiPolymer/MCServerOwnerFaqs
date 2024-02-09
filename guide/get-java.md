@@ -8,12 +8,13 @@
 
 较为标准的Java的安装包你可以通过以下途径找到，您可以自行取舍：
 
-但请注意，表格内排名最先的不一定为最优选择
+但请注意，表格内排名最先的**不一定**为最优选择
 
 |名称|链接|下载速度|需要登录/注册|
 |---|---|---|---|
 |Microsoft OpenJDK|<https://learn.microsoft.com/zh-cn/java/openjdk/download>|较快|不需要|
 |Oracle JDK|<https://www.oracle.com/cn/java/technologies/downloads/>|适中|需要|
 |Adoptium OpenJDK|<https://adoptium.net/zh-CN/>|慢|不需要|
+|清华大学开源软件镜像站|<https://mirrors.tuna.tsinghua.edu.cn/Adoptium/>|快|不需要|
 
 *如果您是追求极致性能的用户,您可能需要寻找第三方的JRE(如Zulu)来更好地利用您设备的资源,在此不作赘述*
