@@ -18,16 +18,20 @@
 
 ## Java相关问题
 
-[要去哪里找Java安装包？](./find-java.md)
+[要去哪里找Java安装包？](./get-java.md)
 
 ## Minecraft服务器（软件）相关问题
 
 [要去哪里找服务端？](./get-minecraft-server-jar.md)
+
+怎么运行
 
 ## 网络相关问题
 
 ## 插件相关问题
 
 [常见插件中文名称与用途](./plugins-table.md)
+
+[我的登录插件只能注册X个人](./login-plugin-ip-limit-problem.md)
 
 ## 报错相关问题

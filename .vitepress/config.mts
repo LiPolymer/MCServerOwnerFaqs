@@ -23,7 +23,7 @@ export default defineConfig({
           },
           {
             text: 'Java相关问题', items: [
-              { text: '要去哪里找Java安装包', link: '/guide/find-java.md' }
+              { text: '要去哪里找Java安装包', link: '/guide/get-java.md' }
             ]
           },
           {
@@ -34,7 +34,8 @@ export default defineConfig({
           { text: '网络相关问题', link: '/guide/#网络相关问题' },
           {
             text: '插件相关问题', items: [
-              { text: '常见插件中文名称与用途', link: '/guide/plugins-table.md' }
+              { text: '常见插件中文名称与用途', link: '/guide/plugins-table.md' },
+              { text: '我的登录插件只能注册X个人', link: '/guide/login-plugin-ip-limit-problem.md' }
             ]
           },
           { text: '报错相关问题', link: '/guide/#报错相关问题' },
