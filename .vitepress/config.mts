@@ -58,7 +58,7 @@ export default defineConfig({
 
     footer: {
       message: '全站内容均以<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>协议许可',
-      copyright: "© <a href="https://yang-qwq.top">Yang-qwq</a> & <a href="https://github.com/Yang-qwq/MCServerOwnerFaqs/graphs/contributors">all GitHub Contributers</a> 2024"
+      copyright: '© <a href="https://yang-qwq.top">Yang-qwq</a> & <a href="https://github.com/Yang-qwq/MCServerOwnerFaqs/graphs/contributors">all GitHub Contributers</a> 2024'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Yang-qwq/MCServerOwnerFaqs' },
