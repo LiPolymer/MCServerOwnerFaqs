@@ -28,6 +28,8 @@
 
 ## 网络相关问题
 
+[IP加端口访问，但是显示无法解析主机](./access-with-ip-and-port-problem-no-such-host.md)
+
 ## 插件相关问题
 
 [常见插件中文名称与用途](./plugins-table.md)

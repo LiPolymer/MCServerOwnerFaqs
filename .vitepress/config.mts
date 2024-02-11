@@ -32,7 +32,11 @@ export default defineConfig({
               { text: '怎么运行服务端', link: '/guide/run-minecraft-server-jar.md' }
             ]
           },
-          { text: '网络相关问题', link: '/guide/#网络相关问题' },
+          {
+            text: '网络相关问题', items: [
+              { text: 'IP加端口访问，但是显示无法解析主机', link: '/guide/access-with-ip-and-port-problem-no-such-host.md' }
+            ]
+          },
           {
             text: '插件相关问题', items: [
               { text: '常见插件中文名称与用途', link: '/guide/plugins-table.md' },
