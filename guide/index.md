@@ -34,4 +34,6 @@
 
 [我的登录插件只能注册X个人](./login-plugin-ip-limit-problem.md)
 
+[箱子锁（LockettePro）全是英文？](./lockettepro-plugin-is-english)
+
 ## 报错相关问题
