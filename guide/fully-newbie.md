@@ -3,20 +3,20 @@
 ::: info
 目前文档还处于待完善状态，并且急需条目补充
 
-如果您有意向为文档做出贡献，欢迎前往[Github](https://github.com/Yang-qwq/MCServerOwnerFaqs)提交[Issue](https://github.com/Yang-qwq/MCServerOwnerFaqs/issues)或者[Pull Request](https://github.com/Yang-qwq/MCServerOwnerFaqs/pulls)
+如果你有意向为文档做出贡献，欢迎前往[Github](https://github.com/Yang-qwq/MCServerOwnerFaqs)提交[Issue](https://github.com/Yang-qwq/MCServerOwnerFaqs/issues)或者[Pull Request](https://github.com/Yang-qwq/MCServerOwnerFaqs/pulls)
 :::
 
 ::: warning
-如果您真的对Minecraft服务器，甚至**整个计算机系统**都一无所知的话，建议
+如果你真的对Minecraft服务器，甚至**整个计算机系统**都一无所知的话，建议
 
-如果您是后者，我们更**建议**去先学习计算机基础后再来学习
+如果你是后者，我们更**建议**去先学习计算机基础后再来学习
 
-如果您拥有一定的计算机基础，那么恭喜您，可以继续向后看了
+如果你拥有一定的计算机基础，那么恭喜你，可以继续向后看了
 :::
 
 ## 我需要掌握什么
 
-作为一个腐竹（此处假设服务器的运维/管理仅有你一个），您**至少需要**以下技能：
+作为一个腐竹（此处假设服务器的运维/管理仅有你一个），你**至少需要**以下技能：
 
 1. **学会查WIKI，能够正确向他人求助/提问**
 2. 掌握计算机基础，并理解Minecraft服务器相关内容
@@ -25,7 +25,7 @@
 5. 至少掌握并运用Minecraft原版常用指令（仅有10条左右）
 6. 与玩家正确沟通，并及时听取意见
 
-当然，如果您掌握了以下技能，您的开服之路一定会变的简单许多，但掌握难度较大，我们一般不推荐新手腐竹专门学习：
+当然，如果你掌握了以下技能，你的开服之路一定会变的简单许多，但掌握难度较大，我们一般不推荐新手腐竹专门学习：
 
 ::: details 点击展开（对于新手极度不友好）
 
@@ -39,7 +39,7 @@
 
 ## 开服步骤
 
-如果您已经准备好了，接下来就可以跟随以下步骤来创建一个属于你自己的服务端了：
+如果你已经准备好了，接下来就可以跟随以下步骤来创建一个属于你自己的服务端了：
 
 1. 准备服务器以及操作系统
 2. 准备Java运行环境

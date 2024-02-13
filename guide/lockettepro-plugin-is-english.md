@@ -28,7 +28,7 @@
 # https://github.com/connection-lost/LockettePro/wiki/*-config.yml
 # If there are missing entries, you can add them manually.
 
-language-file-name: 'lang.yml'  # <--- 关注这里，该值意味着将会被加载的语言文件，如果需要简体中文的话，您需要改为`lang_zh-cn.yml`
+language-file-name: 'lang.yml'  # <--- 关注这里，该值意味着将会被加载的语言文件，如果需要简体中文的话，你需要改为`lang_zh-cn.yml`
 enable-quick-protect: true
 enable-uuid-support: false
 ```

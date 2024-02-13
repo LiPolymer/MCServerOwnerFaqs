@@ -3,11 +3,11 @@
 ::: info
 目前文档还处于待完善状态，并且急需条目补充
 
-如果您有意向为文档做出贡献，欢迎前往[Github](https://github.com/Yang-qwq/MCServerOwnerFaqs)提交[Issue](https://github.com/Yang-qwq/MCServerOwnerFaqs/issues)或者[Pull Request](https://github.com/Yang-qwq/MCServerOwnerFaqs/pulls)
+如果你有意向为文档做出贡献，欢迎前往[Github](https://github.com/Yang-qwq/MCServerOwnerFaqs)提交[Issue](https://github.com/Yang-qwq/MCServerOwnerFaqs/issues)或者[Pull Request](https://github.com/Yang-qwq/MCServerOwnerFaqs/pulls)
 :::
 
 ::: tip
-如果你确实不知道您的问题属于何种分类，建议使用搜索功能搜索关键词或者咨询相关人士解决
+如果你确实不知道你的问题属于何种分类，建议使用搜索功能搜索关键词或者咨询相关人士解决
 :::
 
 [[toc]]
@@ -34,8 +34,12 @@
 
 [常见插件中文名称与用途](./plugins-table.md)
 
+[设置权限组](./setup-permission-group.md)
+
 [我的登录插件只能注册X个人](./login-plugin-ip-limit-problem.md)
 
-[箱子锁（LockettePro）全是英文？](./lockettepro-plugin-is-english)
+[箱子锁（LockettePro）全是英文](./lockettepro-plugin-is-english)
+
+[AureliumSkills插件是英语](./aureliumskills-plugin-is-english.md)
 
 ## 报错相关问题

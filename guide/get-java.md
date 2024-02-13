@@ -5,7 +5,7 @@
 
 众所周知，Minecraft这款游戏，无论是客户端，还是服务端，都采用了Java语言进行编写。这也导致了Java运行时(Java Runtime Environment, JRE)成了游玩Minecraft的刚需
 
-较为标准的Java的安装包你可以通过以下途径找到，您可以自行取舍：
+较为标准的Java的安装包你可以通过以下途径找到，你可以自行取舍：
 
 但请注意，根据你网络环境的不同，表格内排名最先的**不一定**为最优选择
 
@@ -16,6 +16,6 @@
 |Oracle JDK|<https://www.oracle.com/cn/java/technologies/downloads/>|适中|需要|
 |Adoptium OpenJDK|<https://adoptium.net/zh-CN/>|慢|不需要|
 
-*如果您是追求极致性能的用户,您可能需要寻找第三方的JRE(如[Zulu](https://www.azul.com/downloads/?package=jdk#zulu))来更好地利用您设备的资源,在此不作赘述*
+*如果你是追求极致性能的用户,你可能需要寻找第三方的JRE(如[Zulu](https://www.azul.com/downloads/?package=jdk#zulu))来更好地利用你设备的资源,在此不作赘述*
 
 *本表给出的是**JDK** (Java Development Kit, Java开发套件) 的下载地址, 其**包括JRE**和一系列实用工具*
