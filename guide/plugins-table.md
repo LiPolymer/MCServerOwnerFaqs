@@ -10,3 +10,4 @@
 |箱子锁|LockettePro|[Github](https://github.com/brunyman/LockettePro)|[SpigotMC](https://www.spigotmc.org/resources/lockettepro-for-1-14-to-1-19.74354/)|不收费|
 |地皮插件|PlotSquared|[Github](https://github.com/IntellectualSites/PlotSquared/)|[SpigotMC](https://www.spigotmc.org/resources/plotsquared-v7.77506/)|收费|
 |经济插件|[存在歧义](../ambiguities/economy.md)|||...|
+|技能插件|[存在歧义](../ambiguities/skill.md)|||...|
