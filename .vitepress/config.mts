@@ -43,7 +43,8 @@ export default defineConfig({
               { text: '设置权限组', link: '/guide/setup-permission-group.md' },
               { text: '我的登录插件只能注册X个人', link: '/guide/login-plugin-ip-limit-problem.md' },
               { text: '箱子锁全是英文', link: '/guide/lockettepro-plugin-is-english.md' },
-              { text: 'AureliumSkills插件是英语', link: '/guide/aureliumskills-plugin-is-english.md' }
+              { text: 'AureliumSkills插件是英语', link: '/guide/aureliumskills-plugin-is-english.md' },
+              { text: 'Residence圈地有限制怎么修改', link: '/guide/modify-residence-size-limit.md' }
             ]
           },
           { text: '报错相关问题', link: '/guide/#报错相关问题' },

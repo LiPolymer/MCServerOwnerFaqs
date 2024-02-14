@@ -14,17 +14,17 @@
 
 ## 从零开始
 
-[怎么开服？](./fully-newbie.md)
+[怎么开服](./fully-newbie.md)
 
 ## Java相关问题
 
-[要去哪里找Java安装包？](./get-java.md)
+[要去哪里找Java安装包](./get-java.md)
 
 ## Minecraft服务器（软件）相关问题
 
-[要去哪里找服务端？](./get-minecraft-server-jar.md)
+[要去哪里找服务端](./get-minecraft-server-jar.md)
 
-[怎么运行服务端？](./run-minecraft-server-jar.md)
+[怎么运行服务端](./run-minecraft-server-jar.md)
 
 ## 网络相关问题
 
@@ -41,5 +41,7 @@
 [箱子锁（LockettePro）全是英文](./lockettepro-plugin-is-english)
 
 [AureliumSkills插件是英语](./aureliumskills-plugin-is-english.md)
+
+[Residence圈地有限制怎么修改](./modify-residence-size-limit.md)
 
 ## 报错相关问题
